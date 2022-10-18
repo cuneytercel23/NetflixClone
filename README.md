@@ -1,7 +1,7 @@
 # NetflixClone
-Fully Programmatically
-MVVM
-CoreData
-UIKit
-SDWebImage
-URLSession
+# Fully Programmatically
+# MVVM
+# CoreData
+# UIKit
+# SDWebImage
+# URLSession
